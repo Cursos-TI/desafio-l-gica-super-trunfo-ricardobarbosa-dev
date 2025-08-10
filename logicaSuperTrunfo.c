@@ -3,7 +3,7 @@
 
 typedef struct {
     char nome[50];
-    int forca;
+    int forca; 
     int velocidade;
     int inteligencia;
     int densidade_demografica;
